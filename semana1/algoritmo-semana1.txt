@@ -6,3 +6,4 @@ Analizar si el contenido es verdadero y no engañoso
 Identificar el autor o la entidad que publica la información
 Evaluar si la información tiene evidencias o datos verificables
 Compartir la información de manera responsable
+
