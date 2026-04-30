@@ -1,1 +1,7 @@
-
+El uso responsable de la información en internet está directamente relacionado con la ciudadanía digital, ya que implica actuar de manera ética al compartir contenido.
+Verificar la información antes de publicarla evita la propagación de noticias falsas y contribuye a una mejor participación ciudadana. Además, permite que las personas tomen decisiones informadas y confiables, basadas en datos reales.
+Por otro lado, herramientas como Git ayudan a organizar el trabajo técnico de forma ordenada, permitiendo registrar cambios y trabajar en equipo de manera eficiente.
+También facilitan la colaboración entre varias personas, el control de versiones y la transparencia en los procesos. 
+Esto fomenta la responsabilidad, la honestidad y el compromiso digital.
+Asimismo, el buen uso de la tecnología promueve el respeto por los demás usuarios y por la información que se comparte. 
+En conjunto, estos aspectos fortalecen un entorno digital más seguro, confiable, organizado y colaborativo, donde se promueve el aprendizaje y el uso adecuado de las herramientas tecnológicas.
